@@ -3,5 +3,3 @@
 ## [PRE-ALPHA] - 2021-12-22
  
 ### START
-
-- started creation of GameHistory
