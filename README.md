@@ -13,7 +13,7 @@
 - started implementing /is option
 - started creation of the following ranks
 
-#### Ranks
+#### Ranks:
 
 - Owner
 - Admin
