@@ -26,7 +26,6 @@
 - MVP
 - Streamer
 - YouTuber
-- VIP++
 - VIP+
 - VIP
 - PLAYER (default)
